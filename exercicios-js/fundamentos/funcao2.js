@@ -13,3 +13,6 @@ console.log(soma(2,2))
 // retorno implícito
 let subtracao = (a, b) => a - b
 console.log(subtracao(2,1))
+
+const imprimirA = a => console.log(a)
+imprimirA('Opa')
